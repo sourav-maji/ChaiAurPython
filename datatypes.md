@@ -6,3 +6,7 @@
 - Dictionary : {"food": "Rice" , "taste" : "yum" }, dict(hour=10)
 - Set : set('abc') , {'a' , 'b' , 'c'}
 - File : open("eggs.txt") , open(r"C:\abc.bin" , "wb")
+- Boolean : True , False
+- None : None
+- Function , modules , classes
+- Advance : Decorators,Generators, Iterators
